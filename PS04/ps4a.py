@@ -208,7 +208,7 @@ def playHand(hand, wordList, n):
     Allows the user to play the given hand, as follows:
 
     * The hand is displayed.
-    * The user may input a word or a single period (the string ".") 
+    * The user may input a word or a single period (the string ".")
       to indicate they're done playing
     * Invalid words are rejected, and a message is displayed asking
       the user to choose another word until they enter a valid word or "."
